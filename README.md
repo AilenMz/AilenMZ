@@ -1,5 +1,5 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-![Name](https://github.com/AilenMz/AilenMZ/blob/main/name.png)
+![Name](https://github.com/AilenMz/AilenMZ/blob/main/nameaAM.png)
 
 <h3 align="center">I am 27 years old Argentinian. I am currently focused on full stack web development and learn new technologies to improve this. The past 2021 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!</h3>
 
